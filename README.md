@@ -3,7 +3,8 @@
 # Project Problem
 The company experienced problems in loan members to customers. Customers who return to return or pay off loans according to the promised time and nominal period, will certainly harm the company. At present, company managers want to judge which customers are appropriate to be given credit and which are not feasible. They have data about customers obtained when customers fill out online forms. Managers want to create a data analysis to identify customer segments so that they can target who will be given a loan. In other words, the prediction model will greatly help them in making business decisions.
 
-# The purpose of this project is to predict the person who will make a loan, whether it is worth approved or not. In addition to predicting, this project will also conduct related data analysis to find information and knowledge as a basis for making business decisions. What will be done in this project are:
+# Project Goal
+The purpose of this project is to predict the person who will make a loan, whether it is worth approved or not. In addition to predicting, this project will also conduct related data analysis to find information and knowledge as a basis for making business decisions. What will be done in this project are:
 1. Exploratory Data Analysis (EDA) to view and find out the characteristics of data.
 2. Missing Value, Outliers, and Manipulating Data.
 3. Analyze data to find out information about the variables to be used in the prediction model
